@@ -4,6 +4,7 @@ three check for check "later"
 <<<<<<< HEAD
 four is a koala
 five remove the word "here" from line four
+The end.
 =======
 <<<<<<< HEAD
 Chapter for Alex
