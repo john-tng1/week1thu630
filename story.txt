@@ -1,4 +1,5 @@
 one tree "first change"
 two main gum tree
 three check for check "later"
-four here is a koala
+four is a koala
+five remove the word "here" from line four
