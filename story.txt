@@ -14,3 +14,4 @@ four here is a koala
 >>>>>>> 42decd0663ff0cec55231f8b4c7001261ad9f2c4
 ----------test----------
 >>>>>>> 4c0e4524c794c70c6f506e61103fc828aa6b0ff2
+last line of the file.
